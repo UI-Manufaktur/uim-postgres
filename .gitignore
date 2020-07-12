@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/uim-postgres
+uim-postgres.so
+uim-postgres.dylib
+uim-postgres.dll
+uim-postgres.a
+uim-postgres.lib
+uim-postgres-test-*
+*.exe
+*.o
+*.obj
+*.lst
